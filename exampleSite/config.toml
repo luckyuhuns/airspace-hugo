@@ -1,6 +1,6 @@
 baseURL = "http://salientmarketing.netlify.com"
-disableLanguages = []
-disqusShortname = ""
+disableLanguages = ["fr"]
+disqusShortname = "salientmarketing"
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
@@ -79,12 +79,12 @@ weight = 6
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "uhunslucky@gmail.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = ""
 logo = "images/logo.png"
-mobile = "0124857985320"
-multi_author = false
+mobile = "08169627988"
+multi_author = true
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -120,6 +120,9 @@ enable = true
 preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+[[params.social]]
+icon = ""
+link = ""
 [[params.social]]
 icon = "ion-social-googleplus-outline"
 link = "#"

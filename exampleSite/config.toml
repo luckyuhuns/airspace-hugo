@@ -1,5 +1,5 @@
 baseURL = "http://salientmarketing.netlify.com"
-disableLanguages = ["fr"]
+disableLanguages = []
 disqusShortname = "salientmarketing"
 paginate = "4"
 summaryLength = "30"

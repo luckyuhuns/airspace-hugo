@@ -4,7 +4,6 @@ bg_image = "/images/teams/team-2.jpg"
 categories = []
 date = ""
 description = "testing blog testing blog"
-draft = true
 image = ""
 tags = []
 title = "Hello people of nigeria!!!"

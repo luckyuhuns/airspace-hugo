@@ -1,4 +1,4 @@
-baseURL = "http://salientmarketing.netlify.com"
+baseURL = "https://salientmarketing.netlify.app"
 disableLanguages = []
 disqusShortname = "salientmarketing"
 paginate = "4"

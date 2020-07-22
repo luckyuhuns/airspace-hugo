@@ -34,3 +34,4 @@ fields:
   default: post
 pages:
 - exampleSite/content/english/blog/hello-people-of-nigeria.md
+- exampleSite/content/english/blog/hello-people.md
